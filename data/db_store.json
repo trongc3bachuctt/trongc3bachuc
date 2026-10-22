@@ -1,0 +1,32 @@
+{
+  "adminPass": "Tvtrong90@",
+  "weekly": [],
+  "subs": [],
+  "chat": [],
+  "docs": [
+    {
+      "id": "D1792143614169",
+      "tieu_de": "Đề minh họa tốt nghiệp THPT môn Toán (Bộ GD&ĐT)",
+      "mo_ta": "Đề chuẩn cấu trúc định dạng mới theo chương trình GDPT 2018",
+      "link": "https://moet.gov.vn",
+      "tai_ve": "",
+      "loai": "Đề thi",
+      "khoi": "12",
+      "ngay_them": "2026-10-16T09:40:14.169Z"
+    }
+  ],
+  "customLessons": {
+    "11-4": {
+      "title": "Bài 4. Phương trình lượng giác cơ bản",
+      "theory": "<div class=\"box\">$\\sin u=\\sin v\\Leftrightarrow u=v+k2\\pi$ hoặc $u=\\pi-v+k2\\pi$<br>$\\cos u=\\cos v\\Leftrightarrow u=\\pm v+k2\\pi$<br>$\\tan u=\\tan v\\Leftrightarrow u=v+k\\pi$, &nbsp; $\\cot u=\\cot v\\Leftrightarrow u=v+k\\pi$ &nbsp; $(k\\in\\mathbb Z)$</div><p>Đặc biệt: $\\sin u=0\\Leftrightarrow u=k\\pi$; $\\cos u=0\\Leftrightarrow u=\\tfrac\\pi2+k\\pi$.</p>",
+      "formulas": [],
+      "sections": []
+    },
+    "10-7": {
+      "title": "Bài 7. Các khái niệm mở đầu",
+      "theory": "<p><b>Vectơ</b> là đoạn thẳng có hướng. Hai vectơ <b>cùng phương</b> nếu giá song song hoặc trùng nhau; cùng phương thì cùng hướng hoặc ngược hướng.</p><div class=\"box\">$\\overrightarrow{AB}=\\overrightarrow{CD}$ khi cùng hướng và cùng độ dài. $ABCD$ là hình bình hành $\\Leftrightarrow \\overrightarrow{AB}=\\overrightarrow{DC}$. Vectơ-không $\\vec 0$ cùng phương, cùng hướng với mọi vectơ.</div>",
+      "formulas": [],
+      "sections": []
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix 22/10/26 Dạy học Toán Trần Trọng",
+  "description": "Nền tảng học tập \u0026 ôn luyện Toán 10, 11, 12 chuẩn Kết nối tri thức, toán thực tiễn và đề kiểm tra tự sinh tự chấm điểm với lời giải chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
