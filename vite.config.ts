@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/trongc3bachuc/', // Tên repository của bạn
+  base: './', // Thêm chính xác dòng này
 });
