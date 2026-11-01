@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: './', // Thêm chính xác dòng này
+  base: '/trongc3bachuc/', // Thêm chính xác dòng này
 });
