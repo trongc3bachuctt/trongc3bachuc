@@ -25,12 +25,11 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: 'npm'
 
-      - name: Cài đặt thư viện dependencies
-        run: npm install
+      - name: Cài đặt thư viện dependencies (Bỏ qua xung đột peer deps)
+        run: npm install --legacy-peer-deps
 
-      - name: Biên dịch mã nguồn (Build TS sang JS)
+      - name: Biên dịch mã nguồn (Build)
         run: npm run build
 
       - name: Chuẩn bị Pages Artifact
